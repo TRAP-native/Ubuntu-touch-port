@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <!-- Linux kernel 4.4 (Android) -->
+    <project path="Downloads/android_kernel_sony_sm8250_pdx206-q" name="TRAP_native/android_kernel_sony_sm8250_pdx206-q" revision="los-18.1" />
+    <!-- Device configuration -->
+    <project path="android_kernel_sony_sm8250_pdx206-q/built.config.common" name="TRAP_native/android_kernel_sony_sm8250_pdx206-q" revision="los-18.1" />
+    <project path="android_kernel_sony_sm8250_pdx206-q" name="TRAP_native/android_kernel_sony_sm8250_pdx206-q" revision="los-18.1" /> 
+</manifest>
